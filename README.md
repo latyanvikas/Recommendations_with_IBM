@@ -8,6 +8,7 @@ Rank Based Recommendations
 User-User Based Collaborative Filtering
 Matrix Factorization - Making use of SVD to recommend a new article
 
-#Files
-Recommendations_with_IBM.ipynb - It contains the code for the recommendation techniques.
+##Files
+
+<ul>Recommendations_with_IBM.ipynb - It contains the code for the recommendation techniques.</ul>
 
